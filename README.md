@@ -108,9 +108,10 @@ Prompt final: prompt-tune.md
 
 Plataforma: DIO
 
-Link público: (inserir aqui o link do arquivo no GitHub após publicação)
 
-✍️ Autor
+
+✍️ Autor 
+Cristian Yela
 Desenvolvido como parte do Desafio Criativo da DIO — "Projetando o Prompt de um Agente de Atendimento ao Cliente".
 
 "Um bom prompt nasce de intenção clara, contexto e instruções específicas."
